@@ -1,0 +1,8 @@
+-COMPARAÇÕES-
+
+== igualdade
+!= desigualdade
+< menor
+> maior
+<= menor que ou igual a
+>= maior que ou igual a
